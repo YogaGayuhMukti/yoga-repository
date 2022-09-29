@@ -3,6 +3,7 @@ rencana konten yoga
   * ES6
   * Framework Javascript
     - vue
+    - react
 - strukur data dasar 
 - php framework
   * laravel
