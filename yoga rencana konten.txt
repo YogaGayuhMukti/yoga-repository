@@ -2,7 +2,10 @@ rencana konten yoga
 - javascript
   * ES6
   * Framework Javascript
+    - vue
 - strukur data dasar 
 - php framework
+  * laravel
 - interview
 - Vlogs
+- Python
