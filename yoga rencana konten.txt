@@ -2,6 +2,7 @@ rencana konten yoga
 - javascript
   * ES6
   * Framework Javascript
+- strukur data dasar 
 - php framework
 - interview
 - Vlogs
